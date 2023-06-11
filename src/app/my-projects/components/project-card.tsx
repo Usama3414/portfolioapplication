@@ -3,7 +3,7 @@ import React from "react";
 import { Github, Window } from "../../components/icons";
 
 type ProjectCardProps = {
-	data: {
+	data : {
 		title: string;
 		body1: string;
 		body2: string;
